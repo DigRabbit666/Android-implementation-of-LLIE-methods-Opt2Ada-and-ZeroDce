@@ -5,13 +5,18 @@ Sketch: Low-light image enhancement (LLIE) is a method of improving the visual q
 
 The Android implementations of LLIE methods Opt2Ada and ZeroDce are given in this repository. Here, NCNN is used for optimization and deployment of ZeroDce. Therefore, the NCNN model of ZeroDce and the testing code are also provide.
 
-Here is an output of the tested NCNN ZeroDce model.
+Here is an output of the optimized NCNN ZeroDce model.
 
 ![微信截图_20230819102841](https://github.com/DigRabbit666/Android-implementation-of-LLIE-methods-Opt2Ada-and-ZeroDce/assets/73062847/9f513343-06a7-403e-9284-2d7810cedf4e)
 
 A demonstration can be found here: 
 
 https://www.bilibili.com/video/BV1v3411G7zi/
+
+Models are tested in reality. The noise is inevitably amplified and the effectiveness of the methods heavily depends on camera specification.
+
+![vszerodce](https://github.com/DigRabbit666/Android-implementation-of-LLIE-methods-Opt2Ada-and-ZeroDce/assets/73062847/78558e1c-1ed3-4a85-85b7-5533c65c1741)
+
 
 References:
 
