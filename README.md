@@ -9,6 +9,9 @@ Here is an output of the tested NCNN ZeroDce model.
 
 ![微信截图_20230819102841](https://github.com/DigRabbit666/Android-implementation-of-LLIE-methods-Opt2Ada-and-ZeroDce/assets/73062847/9f513343-06a7-403e-9284-2d7810cedf4e)
 
+A demonstration can be found here: 
+
+https://www.bilibili.com/video/BV1v3411G7zi/
 
 References:
 
