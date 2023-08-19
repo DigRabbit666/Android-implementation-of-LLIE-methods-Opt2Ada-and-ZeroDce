@@ -13,7 +13,10 @@ Here is an output of the tested NCNN ZeroDce model.
 References:
 
 https://github.com/Li-Chongyi/Zero-DCE
+
 https://li-chongyi.github.io/Proj_Zero-DCE.html
+
 https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs222644
+
 https://github.com/Tencent/ncnn
 
