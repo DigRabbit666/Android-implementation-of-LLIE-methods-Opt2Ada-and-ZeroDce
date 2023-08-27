@@ -19,6 +19,40 @@ Models are tested in reality. The noise is inevitably amplified and the effectiv
 
 ![vszerodce](https://github.com/DigRabbit666/Android-implementation-of-LLIE-methods-Opt2Ada-and-ZeroDce/assets/73062847/78558e1c-1ed3-4a85-85b7-5533c65c1741)
 
+# Compile
+1. Complie with Visual Studio
+
+Add the following to the C++ include directory:
+
+~\ncnn-master\build-vs2019\install\include
+
+~\ncnn-master\src
+
+~\ncnn-master\build-vs2019\src
+
+~\protobuf-3.11.2\build-vs2019\install\include
+
+~\opencv420\opencv\build\include
+
+Add the following to the C++ library directory:
+
+~\ncnn-master\build-vs2019\install\lib
+
+~\protobuf-3.11.2\build-vs2019\install\lib
+
+~\opencv420\opencv\build\x64\vc14\lib
+
+Add the following to the linker:
+
+ncnn.lib;
+
+libprotobuf.lib;
+
+opencv_world420.lib;
+
+2. Complie with Cmake
+
+Just use cmake.. and make
 
 # References
 
