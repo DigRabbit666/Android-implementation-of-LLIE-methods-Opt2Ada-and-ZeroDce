@@ -52,7 +52,15 @@ opencv_world420.lib;
 
 2. Complie with Cmake
 
-Just use cmake.. and make
+Just use cmake.. and make. Modifications on the path of directories are needed.
+
+3. Complie with Android Studio
+
+Incorporate the wrapper class into the following project and add the model files into the project's asset. There are also some modifications need. Then make the project within Android Studio.
+
+https://github.com/nihui/ncnn-android-nanodet
+
+
 
 # References
 
